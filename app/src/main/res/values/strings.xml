@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ziqiangmisson</string>
+    <string name="news">新闻</string>
+    <string name="actionBar_title">the title</string>
+    <string name="font_12">font_12</string>
+    <string name="action_settings">settings</string>
+</resources>
